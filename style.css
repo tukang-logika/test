@@ -15,14 +15,14 @@ h1 {
   color: #e2dbdb ;
 }
 
-/* .animate__jackInTheBox {
+.animate__jackInTheBox {
   animation-duration: 2s;
-}  */
+} 
 
-:root {
+/* :root {
   --animate-duration: 800ms;
   --animate-delay: 0.9s;
-}
+} */
 
 hr {
   margin: 20px auto;
